@@ -5,9 +5,13 @@ The aim of the project is to analyse house listing in different neighbourhood gr
 Python Packages used in the project:
 
 NumPy
+
 Pandas
+
 matplotlib
+
 Seaborn
+
 
 Data Collection:
 
