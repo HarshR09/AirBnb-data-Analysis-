@@ -1,7 +1,7 @@
 # AirBnb-data-Analysis-
 
 The aim of the project is to analyse house listing in different neighbourhood groups in new york, analysing how listings are scattered in surrounding areas relative to price, reviews, room type,hosts, duration of stay etc? How to set up a new listing in a competitive way?
-
+------------------------
 Python Packages used in the project:
 
 NumPy
@@ -11,13 +11,14 @@ Pandas
 matplotlib
 
 Seaborn
-
+--------------------------
 
 Data Collection:
 
 The datasets for this project was obtained from - https://drive.google.com/file/d/17OkfcGOISO8sDfkbJ76DbzKUNvBwHqHO/view?usp=share_link,  As the project was part of a data science course, i used the Airbnb dataset for New York and analysed the listings.
-This dataset has around 48,895 observations in it with 16 columns and it is a mix between categorical and numeric values.
 
+This dataset has around 48,895 observations in it with 16 columns and it is a mix between categorical and numeric values.
+-------------------------
 Data Processing:
 
 • Removing Duplicates
@@ -25,7 +26,7 @@ Data Processing:
 • Detecting Null Values
 
 • Outlier Detection
-
+---------------------------
 # **Conclusion**
 
 
