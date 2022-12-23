@@ -1,16 +1,18 @@
 # AirBnb-data-Analysis-
 
+AirBnb (Air Bed And Breakfast) is a online market place for booking homestays founded in 2008 and since then to expand on traveling possibilities and present a more unique, personalized way of experiencing the stay during holiday vacation or business trip. Today, Airbnb services are available are available allover the whole world. Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. These millions of listings generate a lot of data - data that can be analyzed and used for security, business decisions, understanding of customers' and providers' (hosts) behavior and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more.
+
 The aim of the project is to analyse house listing in different neighbourhood groups in new york, analysing how listings are scattered in surrounding areas relative to price, reviews, room type,hosts, duration of stay etc? How to set up a new listing in a competitive way?
 
 Python Packages used in the project:
 ------------
-NumPy
+NumPy - for computationally efficient operations
 
-Pandas
+Pandas - for data manipulation and aggregation
 
-matplotlib
+matplotlib and Seaborn - for visualisation and behaviour with respect to target variable
 
-Seaborn
+
 
 
 Data Collection:
